@@ -1,1 +1,25 @@
-
+{
+    "pytania": [
+        {
+            "tresc": "Stolica Polski bylo",
+            "odpa": "Wilkowyje",
+            "odpb": "Gniezno",
+            "odpc": "Katowice",
+            "poprawna": 2
+        },
+        {
+            "tresc": "Prezydentem Polski był",
+            "odpa": "Jarosław Kaczynski",
+            "odpb": "Lech Wałęsa",
+            "odpc": "Paweł Kozioł",
+            "poprawna": 2
+        },
+        {
+            "tresc": "Kiedy Polska wygrała mundial",
+            "odpa": "nigdy",
+            "odpb": "wczoraj",
+            "odpc": "nastepnym razem",
+            "poprawna": 1
+        }
+    ]
+}
